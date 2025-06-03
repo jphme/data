@@ -8,5 +8,13 @@
   "job_board_provider": "personio",
   "job_board_hostname": "ellamind",
   "company_url": "https://ellamind.com",
-  "job_board_url": "https://ellamind.jobs.personio.de/"
+  "job_board_url": "https://ellamind.jobs.personio.de/",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Bremen",
+      "postal_code": "27017",
+      "address": "Konsul-Smidt-Str. 8p"
+    }
+  ]
 }
