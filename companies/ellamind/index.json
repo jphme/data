@@ -14,7 +14,8 @@
       "country": "Germany",
       "city": "Bremen",
       "postal_code": "27017",
-      "address": "Konsul-Smidt-Str. 8p"
+      "address": "Konsul-Smidt-Str. 8p",
+      "map": "{\"type\":\"Point\",\"coordinates\":[107.2937488,63.9731333]}"
     }
   ]
 }
